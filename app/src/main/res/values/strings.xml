@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">UpMed</string>
+    <string name="titulo_toolbar_med">UpMed Médico</string>
+    <string name="titulo_toolbar_pac">UpMed Paciente</string>
+
+    <string name="user_name_med">Médico</string>
+    <string name="user_name_pac">Paciente</string>
+    <string name="primeira_tela">Selecione o módulo</string>
+
+    <string name="med_login_menuitem">Login</string>
+    <string name="med_logoff_menuitem">Logoff</string>
+    <string name="med_config">Preferências</string>
+    <string name="med_trocar_app">Alternar módulo</string>
+    <string name="med_manter_logado">Mantenha-me logado</string>
+
+    <string name="med_hint_login">Login</string>
+    <string name="med_hint_senha">Senha</string>
+
+    <string name="pac_hint_login">Login</string>
+    <string name="pac_hint_senha">Senha</string>
+    <string name="pac_manter_logado">Mantenha-me logado</string>
+
+    <string name="pac_criar_login">Crie um login</string>
+    <string name="pac_criar_senha1">Escreva uma senha</string>
+    <string name="pac_criar_senha2">Repita a senha</string>
+
+
+    <string name="pac_login_menuitem">Login</string>
+    <string name="pac_logoff_menuitem">Logoff</string>
+    <string name="pac_contas">Criar conta</string>
+    <string name="pac_remedios">Remédios</string>
+    <string name="pac_notas">Notas</string>
+    <string name="pac_grupos">Grupos</string>
+    <string name="pac_config">Preferências</string>
+    <string name="pac_trocar_app">Alternar módulo</string>
+    <string name="pac_apagar_dados">Reset</string>
+    <string name="pac_sobre">Sobre...</string>
+
+    <string name="texto_welcome_med">(médico)</string>
+    <string name="texto_welcome_pac">(paciente)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

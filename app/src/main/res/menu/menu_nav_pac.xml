@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single" >
+        <item
+            android:id="@+id/item_pac_login"
+            android:icon="@android:drawable/ic_lock_power_off"
+            android:title="Login" />
+        <item
+            android:id="@+id/item_pac_logoff"
+            android:icon="@android:drawable/ic_lock_power_off"
+            android:title="Logoff" />
+        <item
+            android:id="@+id/item_pac_criar_conta"
+            android:icon="@android:drawable/ic_menu_more"
+            android:title="Criar conta" />
+        <item
+            android:id="@+id/item_pac_grupos"
+            android:icon="@android:drawable/ic_dialog_dialer"
+            android:title="Grupos" />
+        <item
+            android:id="@+id/item_pac_remedios"
+            android:icon="@android:drawable/ic_menu_set_as"
+            android:title="Remédios" />
+        <item
+            android:id="@+id/item_pac_notas"
+            android:icon="@android:drawable/ic_dialog_email"
+            android:title="Notas" />
+    </group>
+    <item android:title="Configurações">
+        <menu>
+            <item
+                android:id="@+id/item_pac_config"
+                android:icon="@android:drawable/ic_menu_preferences"
+                android:title="Preferências" />
+            <item
+                android:id="@+id/item_pac_trocar"
+                android:icon="@android:drawable/ic_menu_revert"
+                android:title="Alternar módulo" />
+            <item
+                android:id="@+id/item_pac_reset"
+                android:icon="@android:drawable/ic_menu_close_clear_cancel"
+                android:title="Reset" />
+            <item
+                android:id="@+id/item_pac_sobre"
+                android:icon="@android:drawable/ic_menu_help"
+                android:title="Sobre ..." />
+        </menu>
+    </item>
+</menu>
